@@ -10,10 +10,12 @@ This repository documents my DSA learning journey through LeetCode. Each solutio
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/shivambhardwaj06/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivambhardwaj06/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/shivambhardwaj06/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivambhardwaj06/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -22,4 +24,13 @@ This repository documents my DSA learning journey through LeetCode. Each solutio
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/shivambhardwaj06/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivambhardwaj06/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivambhardwaj06/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivambhardwaj06/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
