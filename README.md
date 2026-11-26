@@ -54,6 +54,7 @@ This repository documents my DSA learning journey through LeetCode. Each solutio
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/shivambhardwaj06/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+| [3360-stone-removal-game](https://github.com/shivambhardwaj06/DSA/tree/master/3360-stone-removal-game) |
 ## Design
 |  |
 | ------- |
@@ -86,4 +87,8 @@ This repository documents my DSA learning journey through LeetCode. Each solutio
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivambhardwaj06/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/shivambhardwaj06/DSA/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
