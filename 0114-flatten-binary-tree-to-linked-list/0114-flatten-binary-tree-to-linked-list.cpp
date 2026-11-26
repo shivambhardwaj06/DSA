@@ -11,10 +11,10 @@
  */
 class Solution {
 private:
-    void preorder(TreeNode* root, vector<int>& order) {
+    void preorder(TreeNode* root, vector<TreeNode *>& order) {
         if (root == NULL)
             return;
-        order.push_back(root->val);
+        order.push_back(root);
         preorder(root->left,order);
         preorder(root->right,order);
     }
@@ -24,12 +24,11 @@ public:
         if(root==NULL){
             return ;
         }
-        vector<int> order;
+        vector<TreeNode *> order;
         preorder(root, order);
         for(int i = 1 ; i < order.size() ; i++){
-           TreeNode * newNode = new TreeNode(order[i]);
            root->left = NULL;
-           root->right = newNode ; 
+           root->right = order[i] ; 
            root=root->right;
         }
     }
