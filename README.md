@@ -9,6 +9,7 @@ This repository documents my DSA learning journey through LeetCode. Each solutio
 ## Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shivambhardwaj06/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/shivambhardwaj06/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/shivambhardwaj06/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivambhardwaj06/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -17,6 +18,7 @@ This repository documents my DSA learning journey through LeetCode. Each solutio
 ## Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shivambhardwaj06/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/shivambhardwaj06/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivambhardwaj06/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shivambhardwaj06/DSA/tree/master/0662-maximum-width-of-binary-tree) |
@@ -30,6 +32,7 @@ This repository documents my DSA learning journey through LeetCode. Each solutio
 ## Binary Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shivambhardwaj06/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/shivambhardwaj06/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/shivambhardwaj06/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivambhardwaj06/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -75,4 +78,12 @@ This repository documents my DSA learning journey through LeetCode. Each solutio
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/shivambhardwaj06/DSA/tree/master/0222-count-complete-tree-nodes) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shivambhardwaj06/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shivambhardwaj06/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
